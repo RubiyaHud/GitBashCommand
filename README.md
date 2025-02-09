@@ -28,8 +28,10 @@ git push -u origin main
             git clone https://github.com/your-username/your-repo.git      
             cd your-repo
 
-3.  Add the Document File
-
+2.  **Add the Document File**  
+           Copy the document file into the repository folder, then run:
+    
+                git add your-document-file.ext
   
 4.  Commit the Change
 

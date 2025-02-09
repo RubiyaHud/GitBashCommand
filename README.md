@@ -38,7 +38,13 @@ git push -u origin main
            (Replace main with your branch name if different.)
 
            git push origin main  
-    
+
+### Update the Edited File
+        git add . 
+        git commit -m "THE MESSEGE OF CHANGES MADE" 
+        git push -u origin main
+        
+
    
    
 

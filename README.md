@@ -10,12 +10,12 @@ git remote add origin https://github.com/your-username/your-repo.git
 git push -u origin main
 
 ```
-### Push an existing repository from the command line
+### Push an existing repository from the command line  
+```
 git remote add origin https://github.com/your-username/your-repo.git
-
 git branch -M main
-
 git push -u origin main
+```
 
 ### Add a document file to a GitHub repository, follow these steps:
 1.  **Clone the Repository (if not already cloned)**  
@@ -29,12 +29,12 @@ git push -u origin main
     
                 git add your-document-file.ext
   
-4.  **Commit the Change**
+3.  **Commit the Change**
    
            git commit -m "Added document file"
 
   
-6.  **Push the Changes**  
+4.  **Push the Changes**  
            (Replace main with your branch name if different.)
 
            git push origin main  

@@ -44,6 +44,13 @@ git push -u origin main
         git commit -m "THE MESSEGE OF CHANGES MADE" 
         git push -u origin main
         
+### Change User
+        git config --global user.name "Your GitHub User Name"
+        git config --global user.email "your-GitHub-email@example.com"
+**To handle the following error**       
+![image](https://github.com/user-attachments/assets/2b45ca6a-f31e-40ad-a813-cd6110e30350)
+
+
 
    
    

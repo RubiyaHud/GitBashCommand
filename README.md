@@ -33,9 +33,17 @@ git push -u origin main
     
                 git add your-document-file.ext
   
-4.  Commit the Change
+4.  **Commit the Change**
+   
+           git commit -m "Added document file"
 
   
-5.  Push the Changes
+6.  **Push the Changes**  
+           (Replace main with your branch name if different.)
+
+           git push origin main  
+    
+   
+   
 
  
